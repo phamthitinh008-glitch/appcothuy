@@ -1,0 +1,6 @@
+{
+  "name": "Toán Khởi Đầu AI - Chạm Số, Hiểu Nhanh, Học Vui",
+  "description": "Ứng dụng trí tuệ nhân tạo trong thiết kế trò chơi học tập tương tác và tổ chức dạy học Toán thích ứng cho học sinh lớp 1 - Tác giả: Trịnh Thị Chung Thủy (TH Hiển Khánh, Ninh Bình)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
